@@ -4,8 +4,6 @@ The purpose of this analysis was to better familiarize ourselves with Postgres S
 
 # Results
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed
-
 Two takeaways from Retiring Titles:
 
 * A total of around ninety-thousand positions across the company that are in position for retirement
@@ -13,8 +11,8 @@ Two takeaways from Retiring Titles:
 
 Two takeaways from Mentorship Eligibility:
 
-* 3
-* 4
+* A total of around fifteen-hundred positions are eligible for mentorship
+* The position with the largest amount of eligible retirement is Senior Staff, with almost a third of all mentorship eligible positions (428 total)
 
 **Retiring Titles**
 
