@@ -4,9 +4,14 @@ The purpose of this analysis was to better familiarize ourselves with Postgres S
 
 # Results
 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed:
-* d
-* f
+Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed
+
+Bulleted list:
+* 1
+* 2
+* 3
+* 4
+
 # Summary 
 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
