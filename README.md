@@ -6,8 +6,8 @@ The purpose of this analysis was to better familiarize ourselves with Postgres S
 
 Two takeaways from Retiring Titles:
 
-* A total of around ninety-thousand positions across the company that are in position for retirement
-* A large amount of senior positions will be leaving the company. The two largest categories of retiring titles are senior engineers and senior staff. These two categories make up roughly 64% of all retiring titles with a total of around fifty-eigh thousand between the two.
+* A total of around 90,000 positions across the company are in position for retirement
+* A large amount of senior positions will be leaving the company. The two largest categories of retiring titles are senior engineers and senior staff comprising of around 58,000 positions between the two. These two categories make up roughly 64% of all retiring titles.
 
 Two takeaways from Mentorship Eligibility:
 
