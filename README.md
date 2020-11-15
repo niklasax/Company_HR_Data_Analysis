@@ -19,11 +19,11 @@ Two takeaways from Mentorship Eligibility:
 A total of 90,398 positions will need to be filled as the "silver tsunami" begins to make an impact. With a ratio of roughly 58 new employees per 1 eligible mentor, there will not be enough mentors to mentor the next generation of employeee.
 
 
-**Retiring Titles**
+**Retiring Titles Summary**
 
 ![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Unique_titles%20summary.png)
 
-**Mentorship_eligibility**
+**Mentorship_Eligibility Summary**
 
 ![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility%20summary.png)
 
