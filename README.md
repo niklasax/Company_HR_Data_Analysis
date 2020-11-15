@@ -14,6 +14,16 @@ Two takeaways from Mentorship Eligibility:
 * A total of around fifteen-hundred positions are eligible for mentorship
 * The position with the largest amount of eligible retirement is Senior Staff, with almost a third of all mentorship eligible positions (428 total)
 
+# Summary 
+
+Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+
+How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+
+A total of 90,398 positions will need to be filled as the "silver tsunami" begins to make an impact. With a ratio of roughly 58 new employees per 1 eligible mentor, there will not be enough mentors to mentor the next generation of employeee.
+
+
 **Retiring Titles**
 
 ![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Unique_titles%20summary.png)
@@ -23,9 +33,3 @@ Two takeaways from Mentorship Eligibility:
 ![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility%20summary.png)
 
 
-# Summary 
-
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
