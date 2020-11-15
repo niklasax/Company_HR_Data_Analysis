@@ -6,9 +6,13 @@ The purpose of this analysis was to better familiarize ourselves with Postgres S
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed
 
-Bulleted list:
+Results from Retiring Titles:
+
 * 1
 * 2
+
+Results from Mentorship Eligibility:
+
 * 3
 * 4
 
