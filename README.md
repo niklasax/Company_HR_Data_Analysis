@@ -13,9 +13,11 @@ Bulleted list:
 * 4
 
 Retiring Titles
+
 ![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Unique_titles%20summary.png)
 
 Mentorship_eligibility
+
 ![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility%20summary.png)
 
 
