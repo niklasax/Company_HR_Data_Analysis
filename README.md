@@ -6,12 +6,12 @@ The purpose of this analysis was to better familiarize ourselves with Postgres S
 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed
 
-Results from Retiring Titles:
+Two takeaways from Retiring Titles:
 
-* 1
-* 2
+* A total of around ninety-thousand positions across the company that are in position for retirement
+* A large amount of senior positions will be leaving the company. The two largest categories of retiring titles are senior engineers and senior staff. These two categories make up roughly 64% of all retiring titles with a total of around fifty-eigh thousand between the two.
 
-Results from Mentorship Eligibility:
+Two takeaways from Mentorship Eligibility:
 
 * 3
 * 4
