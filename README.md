@@ -16,7 +16,11 @@ Two takeaways from Mentorship Eligibility:
 
 Associated Querys:
 
+**Retiring Titles**
+
 ![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/retiring%20titles%20sql%20query.png)
+
+**Mentorship Eligibility**
 
 ![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Mentorship%20eligibility%20sqlquery.png)
 
