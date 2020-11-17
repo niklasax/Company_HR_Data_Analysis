@@ -11,7 +11,7 @@ Two takeaways from Retiring Titles:
 
 Two takeaways from Mentorship Eligibility:
 
-* A total of around fifteen-hundred positions are eligible for mentorship
+* A total of around 1,500 positions are eligible for mentorship
 * The position with the largest amount of eligible retirement is Senior Staff, with almost a third of all mentorship eligible positions (428 total)
 
 Associated Querys:
@@ -26,7 +26,7 @@ Associated Querys:
 
 ## Summary 
 
-A total of 90,398 positions will need to be filled as the "silver tsunami" begins to make an impact. With a ratio of roughly 58 new employees per 1 eligible mentor, there will not be enough mentors to mentor the next generation of employeee.
+A total of 90,398 positions will need to be filled as the "silver tsunami" begins to make an impact. With a ratio of roughly 58 new employees per 1 eligible mentor, there will not be enough mentors to mentor the next generation of employeee unless the eligibility criteria for Mentorship is expanded.
 
 
 **Retiring Titles Summary**
