@@ -18,11 +18,11 @@ Associated Querys:
 
 **Retiring Titles-**
 
-![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/retiring%20titles%20sql%20query.png)
+![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/resources/retiring%20titles%20sql%20query.png)
 
 **Mentorship Eligibility-**
 
-![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Mentorship%20eligibility%20sqlquery.png)
+![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/resources/Mentorship%20eligibility%20sqlquery.png)
 
 ## Summary 
 
@@ -31,10 +31,10 @@ A total of 90,398 positions will need to be filled as the "silver tsunami" begin
 
 **Retiring Titles Summary**
 
-![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Unique_titles%20summary.png)
+![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/resources/Unique_titles%20summary.png)
 
 **Mentorship_Eligibility Summary**
 
-![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/Mentorship_eligibility%20summary.png)
+![image_name](https://github.com/niklasax/Pewlett-Hackard-Analysis/blob/main/resources/Mentorship_eligibility%20summary.png)
 
 
